@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrasadEktare
-- 👀 I’m interested in genreal coding
+- 👀 I’m interested in genral coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game develpment
 - 📫 How to reach me ...
